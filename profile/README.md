@@ -1,6 +1,6 @@
 ## Welcome to Athenars!
 
-[Athenars](https://athenars.io) is all about *data-driven insights*. Data can keep people informed. Data can make life easier. Data can help make better decsions.
+Athenars is a personal project all about *data-driven insights*. Data can keep people informed. Data can make life easier. Data can help make better decisions.
 
 <!--
 
